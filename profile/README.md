@@ -1,3 +1,3 @@
 # QALB-Boy
 
-![QALB-Boy](img/qalb-boy-logo-colours.jpg)
+![QALB-Boy](https://raw.githubusercontent.com/QALB-Boy/.github/main/profile/img/qalb-boy-logo-colours.jpg)
